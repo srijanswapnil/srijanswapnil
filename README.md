@@ -4,9 +4,9 @@
 ---
 
 ## 🌟 About Me
-- 🎓 2nd Year B.Tech Student at **NIT Jamshedpur**
+- 🎓 3rd Year B.Tech Student at **NIT Jamshedpur**
 - 💻 Passionate about **Full-Stack Web Development (MERN)**
-- 🤖 Exploring **AI/ML, Deepfake Detection & Summarization AI**
+- 🤖 Exploring **AI/ML**
 - ⚡ Vice-Captain @ **Quod Invicta (Fashion Club)**
 - 🔗 Open Source Contributor (**Culfest’25 | SCSE Web Team | URJA’25**)
 
@@ -24,8 +24,8 @@
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="mailto:srijanswapnil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/srijan-swapnil"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:srijanthere@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/srijanswapnil"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/srijanswapnil"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
@@ -40,14 +40,6 @@
 - 🔹 [**Authapp**](https://github.com/srijanswapnil/Authapp) – Authentication App (MERN)  
 - 🔹 [**weather-app**](https://github.com/srijanswapnil/weather-app) – Weather Forecast Web App  
 - 🔹 [**Newsapp**](https://github.com/srijanswapnil/Newsapp) – News Fetching Application  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srijanswapnil&show_icons=true&theme=radical" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srijanswapnil&layout=compact&theme=radical" height="180px"/>
-</p>
 
 ---
 
